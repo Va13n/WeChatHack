@@ -1,4 +1,4 @@
-weixin_hack
+WeChatHack python script
 ===========
 
-simulation login wechat and send message to the member list.
+### Simulated landing the Wechat public platform and send as many messages as you want to the member list
